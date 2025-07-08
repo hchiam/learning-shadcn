@@ -14,3 +14,8 @@ https://ui.shadcn.com/docs/components/button
 which i think maps to:
 
 https://github.com/shadcn-ui/ui/blob/main/templates/monorepo-next/packages/ui/src/components/button.tsx
+
+but you still need to install the CLI first:
+
+https://ui.shadcn.com/docs/installation
+
